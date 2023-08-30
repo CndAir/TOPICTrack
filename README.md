@@ -38,16 +38,4 @@ Video data and algorithms have driven advances in multi-object tracking (MOT). W
 ## Dataset Preparation
 ⏳ The BEE23 dataset is currently being prepared and will be made available by August 27, 2023.
 
-## Citation
-If you find this project useful, please cite it. Thank you!
-
-```
-@misc{cao2023topic,
-      title={TOPIC: A Parallel Association Paradigm for Multi-Object Tracking under Complex Motions and Diverse Scenes}, 
-      author={Xiaoyan Cao and Yiyao Zheng and Yao Yao and Huapeng Qin and Xiaoyu Cao and Shihui Guo},
-      year={2023},
-      eprint={2308.11157},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
+## 
